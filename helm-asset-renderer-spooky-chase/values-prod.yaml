@@ -63,12 +63,6 @@ tolerations:
     effect: "NoSchedule"
 
 env:
-   host: ""
-   port: ""
-   API_URL: ""
-   AVATAR_CONTRACT: ""
-   GEM_CONTRACT: ""
-   ITEM_CONTRACT: ""
-   CACHE_MAX_AGE: ""
+  ENV: ""
 
 
